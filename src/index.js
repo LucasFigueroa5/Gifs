@@ -6,7 +6,6 @@ import './index.css';
 
 
 ReactDOM.render(
-
     <GifsExpertApp  />,
     document.getElementById('root')
 );
