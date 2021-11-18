@@ -9,7 +9,7 @@ const GifsExpertApp = () => {
     // const handleAdd = () => {
     //   setCategories( [...categories, 'Naruto']);
 
-    // }
+    // 
 
     return (
         <>
